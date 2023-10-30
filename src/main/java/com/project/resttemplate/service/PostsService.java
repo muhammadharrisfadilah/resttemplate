@@ -1,9 +1,9 @@
-package com.enigma.resttemplate.service;
+package com.project.resttemplate.service;
 
-import com.enigma.resttemplate.entity.Posts;
-import com.enigma.resttemplate.model.response.GetAllDataPostsResponse;
-import com.enigma.resttemplate.model.response.PostsResponse;
-import com.enigma.resttemplate.repository.PostsRepository;
+import com.project.resttemplate.entity.Posts;
+import com.project.resttemplate.model.response.GetAllDataPostsResponse;
+import com.project.resttemplate.model.response.PostsResponse;
+import com.project.resttemplate.repository.PostsRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpEntity;

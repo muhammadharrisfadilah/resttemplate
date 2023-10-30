@@ -1,9 +1,9 @@
-package com.enigma.resttemplate.controller;
+package com.project.resttemplate.controller;
 
-import com.enigma.resttemplate.entity.Posts;
-import com.enigma.resttemplate.model.response.GetAllDataPostsResponse;
-import com.enigma.resttemplate.model.response.PostsResponse;
-import com.enigma.resttemplate.service.PostsService;
+import com.project.resttemplate.entity.Posts;
+import com.project.resttemplate.model.response.GetAllDataPostsResponse;
+import com.project.resttemplate.model.response.PostsResponse;
+import com.project.resttemplate.service.PostsService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.enigma.resttemplate.entity;
+package com.project.resttemplate.entity;
 
 import lombok.*;
 

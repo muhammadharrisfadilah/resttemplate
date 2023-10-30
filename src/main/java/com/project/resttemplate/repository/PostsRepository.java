@@ -1,6 +1,6 @@
-package com.enigma.resttemplate.repository;
+package com.project.resttemplate.repository;
 
-import com.enigma.resttemplate.entity.Posts;
+import com.project.resttemplate.entity.Posts;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

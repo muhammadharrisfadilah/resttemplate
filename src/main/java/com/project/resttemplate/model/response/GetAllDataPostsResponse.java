@@ -1,6 +1,6 @@
-package com.enigma.resttemplate.model.response;
+package com.project.resttemplate.model.response;
 
-import com.enigma.resttemplate.entity.Posts;
+import com.project.resttemplate.entity.Posts;
 import lombok.*;
 
 import java.util.List;

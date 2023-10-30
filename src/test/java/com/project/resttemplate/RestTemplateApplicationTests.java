@@ -1,4 +1,4 @@
-package com.enigma.resttemplate;
+package com.project.resttemplate;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
